@@ -1,5 +1,5 @@
-Я создала проект ##Crumble Cafe
-##Запуск проекта:
+Я создала проект Crumble Cafe
+Запуск проекта:
 cd my-cafe
 npm start
 
@@ -18,5 +18,5 @@ npm start
 Кнопка «Забронировать столик»
 <img width="277" height="101" alt="image" src="https://github.com/user-attachments/assets/14064da6-c038-493f-902e-7306f0c36cb7" />
 
-##Так выглядит главная страница
+Так выглядит главная страница
 <img width="615" height="181" alt="image" src="https://github.com/user-attachments/assets/6b619390-cb0d-44a8-8b58-1eda29112ca2" />
