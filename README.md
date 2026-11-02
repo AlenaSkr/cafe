@@ -2,9 +2,14 @@
 
 Запуск проекта:
 cd my-cafe
+
 npm start
 
-В нем выполнены такие задачи, как Базовые доработки:
+Так выглядит главная страница
+<img width="615" height="181" alt="image" src="https://github.com/user-attachments/assets/6b619390-cb0d-44a8-8b58-1eda29112ca2" /
+
+В нем выполнены такие задачи, как базовые доработки:
+
 Данные меню в отдельном JSON-файле
 
 Добавить третью вкладку «Контакты»
@@ -21,5 +26,4 @@ npm start
 
 <img width="277" height="101" alt="image" src="https://github.com/user-attachments/assets/14064da6-c038-493f-902e-7306f0c36cb7" />
 
-Так выглядит главная страница
-<img width="615" height="181" alt="image" src="https://github.com/user-attachments/assets/6b619390-cb0d-44a8-8b58-1eda29112ca2" />
+>
